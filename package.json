@@ -1,0 +1,22 @@
+{
+  "name": "exchangehouse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Varasmanu/ExchangeHouse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Varasmanu/ExchangeHouse/issues"
+  },
+  "homepage": "https://github.com/Varasmanu/ExchangeHouse#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.0"
+  }
+}
